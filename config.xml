@@ -5,7 +5,14 @@
    <!-- CHANGE HERE -->
    <name>Ambassador Transportation Services</name>
    <!-- CHANGE HERE -->
-   <description>Ambassador Transportation Services Booking Application</description>
+   <description>Ambassador Transportation application is a customer booking application allowing the following actions:
+       1 - Booking Instant Pickups
+       2 - Booking Scheduled Pickups
+       3 - Tracking Driver and Status of bookings.
+       4 - Cancel bookings before job starts.
+       5 - Favorite Addresses
+       6 - Driver Feedback
+       When you decide to use our taxi cabs - don't doubt that the vehicle will suit your requirements and will come on time, but the main thing is that we provide the highest possible level of safety for our clients and transported loads.</description>
    <author href="http://iwebcab.com" email="support@iwebcab.com">iWebCab.com</author>
    <feature name="http://api.phonegap.com/1.0/geolocation" />
    <feature name="http://api.phonegap.com/1.0/media" />
